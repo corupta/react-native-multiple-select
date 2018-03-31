@@ -24,7 +24,7 @@ $ yarn add react-native-multiple-select
 
 
 ## Usage
-Note: Ensure to add and configure [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) to your project before using this package.
+Note: Ensure to add expo to your project to be able to use @expo/vector-icons (used in this project).
 
 You can clone and try out the [sample](https://github.com/toystars/RN-multiple-select-sample) app.
 
